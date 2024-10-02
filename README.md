@@ -7,6 +7,6 @@
     
 <h4>Contact</h4>
     <p>bond <em>for web solutions</em><br>Vlaardingweg 62<br>3044 CK Rotterdam, The Netherlands</p>
-<p><a class="btn btn-secondary btn__tekst" href="/contact" target="blank">Route</a></p>
+<p><a class="btn btn-secondary btn__tekst" href="https://www.bondforwebsolutions.nl" target="blank">bondforwebsolutions.nl</a></p>
   </div>
 
